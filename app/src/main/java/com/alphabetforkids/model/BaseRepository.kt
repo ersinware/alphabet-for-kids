@@ -1,0 +1,3 @@
+package com.alphabetforkids.model
+
+interface BaseRepository
